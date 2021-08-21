@@ -230,8 +230,8 @@ public class App {
 
 									@Override
 									protected PasswordAuthentication getPasswordAuthentication() {
-										
-										return new PasswordAuthentication("chitrakoothospital108@gmail.com", "yash91982569@");
+										//Enter Your Email Details
+										return new PasswordAuthentication("chitrakoothospital108@gmail.com", "************************ ");
 									}
 								
 								});
